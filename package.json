@@ -1,0 +1,25 @@
+{
+  "name": "lib_one",
+  "version": "1.0.0",
+  "description": "prova package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaetano1979/libOne.git"
+  },
+  "keywords": [
+    "test",
+    "lib",
+    "package"
+  ],
+  "author": "Gaetano Sabino <gaetano@webappgs.com>",
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@gaetano1979" },
+  "bugs": {
+    "url": "https://github.com/Gaetano1979/libOne/issues"
+  },
+  "homepage": "https://github.com/Gaetano1979/libOne#readme"
+}
